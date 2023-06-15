@@ -1,1 +1,3 @@
-Hello, I am Ichchha
+There are a few different GPT-4 models to choose from.
+One key difference between models is the context length. This is the length of the prompt plus the maximum number of tokens in the completion. Our standard GPT-4 model offers 8,000 tokens for the context. We also offer an extended 32,000 token context-length model, which we are rolling out separately to the 8k model.
+Secondly, gpt-4 will refer to our most up-to-date model (and gpt-4-32k for the latest 32k-context model). If you're interested in using a previous snapshot of the model, you can refer to the specific date in the model name, such as gpt-4-0314 or gpt-4-32k-0314. The March 14th snapshot will be available until June 14th.
